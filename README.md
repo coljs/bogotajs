@@ -11,7 +11,7 @@ Respositiorio de la comunidad de [BogotáJS](http://bogotajs.com).
 - John Acosta [@jseros](http://twitter.com/jseros) [retirado/fundador]
 
 ## Eventos
-Nuestros eventos se encuentra en [Meetup BogotaJS](http://bogotajs.com)
+Todos nuestros eventos se encuentran publicados en [Meetup BogotaJS](http://bogotajs.com)
 
 ## NodeSchool
 Para saber más sobre nuestro NodeSchool visita: [NodeSchool Bogotá](https://github.com/nodeschool/bogota)
