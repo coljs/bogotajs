@@ -10,6 +10,9 @@ Respositiorio de la comunidad de [BogotáJS](http://bogotajs.com).
 - Juan Pablo Buritica [@buritica](http://twitter.com/buritica) [remoto desde NY]
 - John Acosta [@jseros](http://twitter.com/jseros) [retirado/fundador]
 
+## Código de Conducta
+Conoce nuestro [Código de Conducta](https://github.com/coljs/bogotajs/blob/master/CODIGO-DE-CONDUCTA.md).
+
 ## Eventos
 Todos nuestros eventos se encuentran publicados en [Meetup BogotaJS](http://bogotajs.com)
 
