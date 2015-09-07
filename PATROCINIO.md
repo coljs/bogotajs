@@ -12,8 +12,11 @@ Las opciones de patrocinio presentadas a continuación son paquetes de 3 meses (
 
 
 ## Patrocinio Gold
+
 **Costo: $1'400.000 COP**
+
 **Duración: 3 Meses**
+
 Este patrocinio cubre el costo del catering del evento, que usualmente consiste en pizza y bebidas. Adicionalmente cubre gastos operativos necesarios para mantener el grupo.
 Como patrocinador Gold usted recibe los siguientes beneficios:
 - Presentación de 5 minutos al final de las charlas o talleres.
