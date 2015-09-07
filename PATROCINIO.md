@@ -26,8 +26,11 @@ Como patrocinador Gold usted recibe los siguientes beneficios:
 
 
 ## Patrocinio Silver
+
 **Costo: $900.000 COP**
+
 **Duración: 3 Meses**
+
 Este patrocinio cubre gastos operativos del evento, usualmente siendo este transportación de materiales necesarios para el evento, logística y demás actividades que se requieran para los eventos especiales.
 Como patrocinador Silver usted recibe los siguientes beneficios:
 - Publicación de ofertas laborales máximo una vez cada dos semanas por medio del correo grupal del Meetup.
@@ -39,8 +42,11 @@ Como patrocinador Silver usted recibe los siguientes beneficios:
 
 
 ## Patrocinio Startup
+
 **Costo: $250.000 COP**
+
 **Duración: 1 Mes**
+
 _Este patrocinio solo está disponible para empresas con menos de 10 empleados, sólo estará disponible para un patrocinador por mes._
 Este patrocinio cubre gastos operativos del evento, usualmente siendo este transportación de materiales necesarios para el evento, logística y demás actividades que se requieran para los eventos especiales.
 Como patrocinador Startup usted recibe los siguientes beneficios:
@@ -53,8 +59,11 @@ Como patrocinador Startup usted recibe los siguientes beneficios:
 
 
 ## Adopta a BogtáJS <3
+
 **Costo: $150.000 COP**
+
 **Duración: 1 Mes**
+
 Este patrocinio solo está disponible para personas y solamente uno por evento
 Si quieres tanto a la comunidad como nosotros lo hacemos, y te gustaría adoptarla para un evento, esta es la oportunidad! Tu aporte se verá reflejado en bebidas y snacks para los asistentes.
 Al adoptar a BogotáJS recibes los siguientes beneficios:
