@@ -61,7 +61,7 @@ Como patrocinador Startup usted recibe los siguientes beneficios:
 - Agradecimientos y menciones por medio de Twitter antes y al final de los eventos.
 
 
-## Adopta a BogtáJS <3
+## Adopta a BogotáJS <3
 
 **Costo: $150.000 COP**
 
