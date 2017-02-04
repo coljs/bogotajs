@@ -5,7 +5,7 @@
 
 Respositiorio de la comunidad de [BogotáJS](http://bogotajs.com).
 
-## [Propón una charla](propuesta.bogotajs.com)!
+## [Propón una charla](http://propuesta.bogotajs.com)!
 
 En BogotáJS estámos buscando constantemente nuevos speakers, si te interesa dar una charla tenemos
 dos formatos:
@@ -15,7 +15,7 @@ dos formatos:
 
 El formato es libre y el tema también (siempre y cuando sea relacionado con JavaScript).
 
-Propón tu charla en: **[propuesta.bogotajs.com](propuesta.bogotajs.com)**
+Propón tu charla en: **[propuesta.bogotajs.com](http://propuesta.bogotajs.com)**
 
 ## Organizadores
 
