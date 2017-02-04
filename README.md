@@ -15,7 +15,7 @@ dos formatos:
 
 El formato es libre y el tema también (siempre y cuando sea relacionado con JavaScript).
 
-Propón tu charla en: *[propuesta.bogotajs.com](propuesta.bogotajs.com)*
+Propón tu charla en: **[propuesta.bogotajs.com](propuesta.bogotajs.com)**
 
 ## Organizadores
 
@@ -56,4 +56,4 @@ Contamos con un [documento de prospectos de patrocinadores](PATROCINIO.md).
 
 ## Contacto
 
-*[hola@bogotajs.com](mailto:hola@bogotajs.com)*
+**[hola@bogotajs.com](mailto:hola@bogotajs.com)**
