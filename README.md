@@ -1,7 +1,6 @@
-# [BogotáJS](http://bogotajs.com)
-[![Join the chat at https://gitter.im/coljs/bogotajs](https://badges.gitter.im/coljs/bogotajs.svg)](https://gitter.im/coljs/bogotajs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# [<img src="https://raw.githubusercontent.com/coljs/bogotajs/master/assets/img/logo/LogoBogJSBleed.png" width="300" />](http://bogotajs.com)
 
-![BogotáJS](https://raw.githubusercontent.com/coljs/bogotajs/master/assets/img/logo/LogosBogJS@300x300.png)
+[![Join the chat at https://gitter.im/coljs/bogotajs](https://badges.gitter.im/coljs/bogotajs.svg)](https://gitter.im/coljs/bogotajs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Respositiorio de la comunidad de [BogotáJS](http://bogotajs.com).
 
