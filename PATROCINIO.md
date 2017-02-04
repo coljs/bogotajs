@@ -13,7 +13,7 @@ Las opciones de patrocinio presentadas a continuación son paquetes de 3 meses (
 
 ## Patrocinio Gold
 
-**Costo: $1'400.000 COP**
+**Costo: $1'500.000 COP**
 
 **Duración: 3 Meses**
 
@@ -30,7 +30,7 @@ Como patrocinador Gold usted recibe los siguientes beneficios:
 
 ## Patrocinio Silver
 
-**Costo: $900.000 COP**
+**Costo: $950.000 COP**
 
 **Duración: 3 Meses**
 
@@ -46,7 +46,7 @@ Como patrocinador Silver usted recibe los siguientes beneficios:
 
 ## Patrocinio Startup
 
-**Costo: $250.000 COP**
+**Costo: $270.000 COP**
 
 **Duración: 1 Mes**
 
@@ -63,7 +63,7 @@ Como patrocinador Startup usted recibe los siguientes beneficios:
 
 ## Adopta a BogotáJS <3
 
-**Costo: $150.000 COP**
+**Costo: $160.000 COP**
 
 **Duración: 1 Mes**
 
