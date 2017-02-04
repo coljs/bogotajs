@@ -3,7 +3,6 @@
 
 ![BogotáJS](https://raw.githubusercontent.com/coljs/bogotajs/master/assets/img/logo/LogosBogJS@300x300.png)
 
-
 Respositiorio de la comunidad de [BogotáJS](http://bogotajs.com).
 
 ## [Propón una charla](propuesta.bogotajs.com)!
@@ -36,7 +35,7 @@ En orden alfabético:
 
 ## Código de Conducta
 
-Conoce nuestro [Código de Conducta](https://github.com/coljs/bogotajs/blob/master/CODIGO-DE-CONDUCTA.md).
+Conoce nuestro [Código de Conducta](CODIGO-DE-CONDUCTA.md).
 
 ## Eventos
 
@@ -45,3 +44,16 @@ Todos nuestros eventos se encuentran publicados en [Meetup BogotaJS](http://bogo
 ## NodeSchool
 
 Para saber más sobre nuestro NodeSchool visita: [NodeSchool Bogotá](https://github.com/nodeschool/bogota)
+
+## [Patrocinio](PATROCINIO.md)
+
+Contamos con un [documento de prospectos de patrocinadores](PATROCINIO.md).
+
+## Redes
+
+- [Twitter: @BogotaJS](https://twitter.com/BogotaJS)
+- [Facebook: bogotajs](https://www.facebook.com/groups/bogotajs/)
+
+## Contacto
+
+*[hola@bogotajs.com](mailto:hola@bogotajs.com)*
