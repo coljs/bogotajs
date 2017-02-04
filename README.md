@@ -1,4 +1,4 @@
-# [![BogotáJS](https://raw.githubusercontent.com/coljs/bogotajs/master/assets/img/logo/LogoBogJS@300x300.png)](http://bogotajs.com)
+# [![BogotáJS](https://raw.githubusercontent.com/coljs/bogotajs/master/assets/img/logo/LogoBogJSBleed.png)](http://bogotajs.com)
 
 [![Join the chat at https://gitter.im/coljs/bogotajs](https://badges.gitter.im/coljs/bogotajs.svg)](https://gitter.im/coljs/bogotajs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
