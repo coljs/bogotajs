@@ -1,9 +1,10 @@
 # BogotáJS - Código de Conducta
+
 Adaptado del [Código de Conducta de Colombia.dev](https://github.com/colombia-dev/codigo-de-conducta)
 
 ## 1. Propósito
 
-Uno de los objetivos principales de `colombia.dev` es ser inclusiva para el 
+Uno de los objetivos principales de `BogotáJS` es ser inclusiva para el 
 mayor número de contribuyentes, con la mayor diversidad de orígenes posibles.
 Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y
 acogedor para todos, independientemente de su sexo, orientación sexual, 
@@ -13,7 +14,7 @@ Este código de conducta resume nuestras expectativas para todos los que
 participan en nuestra comunidad, así como las consecuencias para el 
 comportamiento inaceptable.
 
-Invitamos a todos los que participan en `colombia.dev` a que nos ayuden a crear
+Invitamos a todos los que participan en `BogotáJS` a que nos ayuden a crear
 experiencias seguras y positivas para todos.
 
 ## 2. Ciudadanía de [Software / Cultura / Tecnología] Libre
@@ -118,7 +119,7 @@ permitidas y conllevaran a más expulsiones.
 comunidad. Si un organizador crea una situación inadecuada, este será juzgado 
 con un estándar más alto.
 
-En la comunidad `colombia.dev` nos esforzamos por ir un paso más allá y cuidar 
+En la comunidad `BogotáJS` nos esforzamos por ir un paso más allá y cuidar 
 el uno del otro. No se limite a tratar de mostrar su excelencia técnica, trate 
 también de ser la mejor persona posible. En particular, evite tocar temas 
 ofensivos o sensibles, especialmente si están fuera del tema tratado; esto muy a
@@ -131,7 +132,7 @@ resista el impulso de estar a la defensiva. Simplemente pare de hacer o decir lo
 que fuera que causó la queja y pida disculpas. Hay buenas probabilidades de que
 usted se pudo haber comunicado mejor, incluso si usted siente que fue 
 malinterpretado o injustamente acusado, - recuerde que es su responsabilidad 
-hacer que sus compañeras y compañeros de `colombia.dev` estén cómodos.
+hacer que sus compañeras y compañeros de `BogotáJS` estén cómodos.
 
 Todo el mundo busca harmonía y todos estamos aquí, ante todo, porque queremos 
 hablar de tecnologías que nos gustan. Por lo general, la gente está dispuesta a 
