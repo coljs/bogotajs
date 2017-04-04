@@ -47,7 +47,20 @@
       <li><a href="https://twitter.com/dernestoe" target="_blank">Daniel Escobar</a></li>
       <li><a href="https://twitter.com/sergiosinuco" target="_blank">Sergio Sinuco</a></li>
     </ul>
-      <script type="text/javascript"></script>
+    <script type="text/javascript">
+      setTimeout(function() {
+        const orgs = document.querySelector('.organizers')
+        const elems = [].slice.call(orgs.querySelectorAll('li'))
+        const docFrag = document.createDocumentFragment()
+        while (elems.length) {
+          const index = ~~(Math.random() * elems.length)
+          docFrag.appendChild(elems.splice(index, 1)[0])
+        }
+        orgs.innerHTML = ''
+        orgs.appendChild(docFrag)
+      })
+    </script>
+
     <footer>
       <nav>
         <a href="https://twitter.com/BogotaJS"><i class="fa fa-twitter" aria-hidden="true"></i>Twitter</a>
