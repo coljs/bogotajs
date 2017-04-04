@@ -1,3 +1,133 @@
+:root {
+  --links-color: #047bef;
+  --meetup-color: #ED1C40;
+  --text-font: 'Source Sans Pro', sans-serif;
+  --title-font: 'Quicksand', sans-serif;;
+}
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.35;
+  color: #222;
+  font-family: var(--text-font);
+}
+body {
+  /*background-image: url(/assets/img/bg/gplaypattern_@2X.png);*/
+  /*background-size: 50%;*/
+  background: radial-gradient(circle, transparent 20%, white 20%, white 80%, transparent 80%, transparent),
+              radial-gradient(circle, transparent 20%, white 20%, white 80%, transparent 80%, transparent) 50px 50px,
+              linear-gradient(#FDFDFD 8px, transparent 8px) 0 -4px,
+              linear-gradient(90deg, #FDFDFD 8px, transparent 8px) -4px 0;
+  background-color: white;
+  background-size:100px 100px, 100px 100px, 50px 50px, 50px 50px;
+}
+a {
+  color: var(--links-color);
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+a:hover {
+  color: #0057ad;
+}
+h2 {
+  font-weight: normal;
+  margin-top: 3.5rem;
+  margin-bottom: 1rem;
+  font-family: var(--title-font);
+  text-transform: lowercase;
+  font-size: 1.3rem;
+  letter-spacing: 0.3rem
+}
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+@media screen and (max-width: 540px) {
+  .content {
+    padding: 0 20px;
+    max-width: 100%;
+  }
+}
 .logo {
-  width: 400px;
+  width: 60vw;
+  max-width: 250px;
+  display: block;
+  margin: 4rem auto 3rem;
+}
+.meetup-link-cont {
+  text-align: center;
+  margin: 2rem auto 3rem;
+}
+.meetup-link {
+  color: white;
+  padding: 0.5rem 0.8rem 0.4rem;
+  background: var(--meetup-color);
+  display: inline-block;
+  font-weight: 600;
+  border-radius: 3px;
+}
+.meetup-link > .fa {
+  font-size: 1.3em;
+  vertical-align: middle;
+  margin-right: 0.3rem;
+  position: relative;
+  top: -2px;
+}
+.menu {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.menu > a {
+  display: inline-block;
+  margin: 0.1rem 0.3rem;
+  text-decoration: none;
+  border-radius: 3px;
+  padding: 0.3rem 0.6rem;
+}
+.menu > a:hover {
+  color: white;
+  background-color: var(--links-color);
+  transform: scale(1.05);
+}
+.menu > a > .fa {
+  font-weight: 400;
+  font-size: 1.2rem;
+  margin-right: 0.4rem
+}
+
+.organizers {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.organizers > li {
+  margin-bottom: 0.5rem;
+}
+
+footer {
+  margin-top: 4rem;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+footer > p {
+  font-size: 0.9rem;
+  color: #555;
+}
+footer > nav {
+  margin-bottom: 1rem;
+}
+footer > nav > a {
+  margin: 0.4rem 0.6rem;
+  display: inline-block;
+}
+
+footer a > .fa {
+  margin-right: 0.3rem;
 }
