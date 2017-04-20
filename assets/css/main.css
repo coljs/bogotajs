@@ -38,6 +38,25 @@ a:hover {
 h1, h2, h3, h4, h5 {
   font-family: var(--title-font);
 }
+.path-1 {
+  transform: translate(-5.66px, -77.12px);
+  transform-origin: 50% 50%;
+}
+.path-3 {
+  transform: translate(-5.66px, 67.12px);
+  transform-origin: 50% 50%;
+}
+.path-1, .path-2, .path-3 {
+  opacity: 0;
+  transition: all 2s 1s;
+}
+.path-2 {
+  transition-delay: 0s;
+}
+.loaded .path-1, .loaded .path-2, .loaded .path-3 {
+  opacity: 1;
+  transform: rotate(0) translate(-5.66px, -17.12px);
+}
 h2 {
   font-weight: normal;
   margin-top: 3.5rem;
@@ -70,6 +89,7 @@ h3 {
   max-width: 250px;
   display: block;
   margin: 4rem auto 3rem;
+  overflow: visible;
 }
 .meetup-link-cont {
   text-align: center;
