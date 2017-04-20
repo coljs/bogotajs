@@ -25,7 +25,7 @@ En orden alfabético:
 - Giovanny Beltrán [@agar3s](http://twitter.com/agar3s)
 - David Roncancio [@kuryaki](http://twitter.com/kuryaki)
 - María Velandia [@manvedu](https://twitter.com/manvedu)
-- Nathaly Villamor [nathalyvillamor](https://twitter.com/nathalyvillamor)
+- Nathaly Villamor [@nathalyvillamor](https://twitter.com/nathalyvillamor)
 - Ana Milena Suarez [@milena_suarezl](https://twitter.com/milena_suarezl)
 - Daniel Escobar [@dernestoe](https://twitter.com/dernestoe)
 - Sergio Sinuco [@sergiosinuco](https://twitter.com/sergiosinuco)
