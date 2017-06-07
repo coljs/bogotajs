@@ -9,4 +9,4 @@ En el **[Documento de Prospecto de Patrocinio](http://bit.ly/prospectus-bogjs)**
 
 
 ## Contacto
-Para solicitar más información, un documento formal, o patrocinar a BogotáJS, nos pueden escribir a [hola@bogotajs.com].
+Para solicitar más información, un documento formal, o patrocinar a BogotáJS, nos pueden escribir a hola@bogotajs.com.
